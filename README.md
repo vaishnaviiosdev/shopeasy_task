@@ -5,13 +5,21 @@ ShopEasy is a simple iOS application.
 ## Screenshots
 
 ![Screenshot 1](ShopEasy%20Output/ScreenShot/1.%20Splash.png "Splash")
+
 ![Screenshot 2](ShopEasy%20Output/ScreenShot/2.%20Home%20Collapse.png "Home Collapse")
+
 ![Screenshot 3](ShopEasy%20Output/ScreenShot/2.1%20Home%20Expand.png "Home Expand")
+
 ![Screenshot 4](ShopEasy%20Output/ScreenShot/2.2%20Home%20Categories%20Name.png "Home Categories Name")
+
 ![Screenshot 5](ShopEasy%20Output/ScreenShot/3.%20SideMenu.png "SideMenu")
+
 ![Screenshot 6](ShopEasy%20Output/ScreenShot/4.%20Favourite.png "Favourite")
+
 ![Screenshot 7](ShopEasy%20Output/ScreenShot/5.%20Cart.png "Cart")
+
 ![Screenshot 8](ShopEasy%20Output/ScreenShot/5.1%20Cart%20Delete.png "Cart Delete")
+
 ![Screenshot 9](ShopEasy%20Output/ScreenShot/5.2%20Checkout.png "Home Checkout")
 
 ## Task Details
