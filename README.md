@@ -4,8 +4,8 @@ ShopEasy is a simple iOS application.
 
 ## Screenshots
 
-![Screenshot 1](ShopEasy Output/ScreenShot/1. Splash.png "Splash")
-![Screenshot 2](ShopEasy Output/ScreenShot/2. Home Collapse.png "Home Collapse")
+![Screenshot 1](ShopEasy%20Output/ScreenShot/1.%20Splash.png "Splash")
+![Screenshot 2](ShopEasy%20Output/ScreenShot/2.%20Home%20Collapse.png "Home Collapse")
 
 ## Task Details
 
@@ -27,8 +27,12 @@ action.
 
 ## Installation
 
-To install and run MyApp on your local machine, follow these steps:
+To install and run ShopEasy on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/vaishnaviiosdev/shopeasy_task.git
+
+2. Pod Install:
+   ```bash
+   pod install
