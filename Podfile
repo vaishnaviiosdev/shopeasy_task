@@ -7,7 +7,6 @@ target 'Assignment_Task' do
 
   # Pods for Assignment_Task
 
-  pod 'MaterialCard'
   pod 'lottie-ios'
   pod 'HeartButton'
   pod 'SwiftyJSON'

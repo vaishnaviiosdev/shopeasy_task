@@ -17,6 +17,7 @@
 		4332DAF92C526AB20043850F /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4332DAF82C526AB20043850F /* MenuViewController.swift */; };
 		4332DAFB2C5272AB0043850F /* SplashProgressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4332DAFA2C5272AB0043850F /* SplashProgressViewController.swift */; };
 		4332DAFD2C5281F20043850F /* Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4332DAFC2C5281F20043850F /* Toast.swift */; };
+		4332DB012C52A1770043850F /* MaterialCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4332DB002C52A1770043850F /* MaterialCard.swift */; };
 		4377C8A12C4F7A5400CAFA07 /* FavouriteViewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4377C8A02C4F7A5400CAFA07 /* FavouriteViewcontroller.swift */; };
 		4377C8A32C4F896C00CAFA07 /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4377C8A22C4F896C00CAFA07 /* CartViewController.swift */; };
 		4377C8A72C4FE75100CAFA07 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4377C8A62C4FE75100CAFA07 /* Model.swift */; };
@@ -67,6 +68,7 @@
 		4332DAF82C526AB20043850F /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		4332DAFA2C5272AB0043850F /* SplashProgressViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashProgressViewController.swift; sourceTree = "<group>"; };
 		4332DAFC2C5281F20043850F /* Toast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
+		4332DB002C52A1770043850F /* MaterialCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialCard.swift; sourceTree = "<group>"; };
 		4377C8A02C4F7A5400CAFA07 /* FavouriteViewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteViewcontroller.swift; sourceTree = "<group>"; };
 		4377C8A22C4F896C00CAFA07 /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
 		4377C8A62C4FE75100CAFA07 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			children = (
 				4332DAFC2C5281F20043850F /* Toast.swift */,
 				430E18C02C513D9F003ABBCC /* CoreDataManager.swift */,
+				4332DB002C52A1770043850F /* MaterialCard.swift */,
 			);
 			name = Helpers;
 			sourceTree = "<group>";
@@ -427,6 +430,7 @@
 				43BE5CDC2C50F41100A11994 /* Cell.swift in Sources */,
 				438FB6F72C4E93AA0088D947 /* AppDelegate.swift in Sources */,
 				4377C8A12C4F7A5400CAFA07 /* FavouriteViewcontroller.swift in Sources */,
+				4332DB012C52A1770043850F /* MaterialCard.swift in Sources */,
 				438FB7012C4E93AA0088D947 /* Assignment_Task.xcdatamodeld in Sources */,
 				439938662C5246CB00187AF8 /* UIViewControllerExtension.swift in Sources */,
 				4332DAFD2C5281F20043850F /* Toast.swift in Sources */,

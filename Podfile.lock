@@ -1,7 +1,6 @@
 PODS:
   - HeartButton (1.1.0)
   - lottie-ios (4.4.3)
-  - MaterialCard (1.1.4)
   - SDWebImage (5.19.1):
     - SDWebImage/Core (= 5.19.1)
   - SDWebImage/Core (5.19.1)
@@ -11,7 +10,6 @@ PODS:
 DEPENDENCIES:
   - HeartButton
   - lottie-ios
-  - MaterialCard
   - SDWebImage
   - SideMenu
   - SwiftyJSON
@@ -20,7 +18,6 @@ SPEC REPOS:
   trunk:
     - HeartButton
     - lottie-ios
-    - MaterialCard
     - SDWebImage
     - SideMenu
     - SwiftyJSON
@@ -28,11 +25,10 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   HeartButton: 0d75e41d05292add5f1490c3a616ad24d7db4990
   lottie-ios: fcb5e73e17ba4c983140b7d21095c834b3087418
-  MaterialCard: 95fe84134e995d8688a88d2d305c520291910f6d
   SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
   SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
   SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
 
-PODFILE CHECKSUM: fe295c5aa51af7e332fce80dcaa98593b0f7138c
+PODFILE CHECKSUM: 69ddb671ba326310889f37f929427fe70d8bd31a
 
 COCOAPODS: 1.15.2

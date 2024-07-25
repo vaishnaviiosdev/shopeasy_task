@@ -41,8 +41,8 @@
                         <constraints>
                             <constraint firstItem="7CT-rQ-kGQ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="0og-1A-cNa"/>
                             <constraint firstItem="7CT-rQ-kGQ" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="4T8-sU-ZUm"/>
-                            <constraint firstItem="7CT-rQ-kGQ" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="GEd-wP-eTN"/>
                             <constraint firstItem="7CT-rQ-kGQ" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="SBA-1u-Ep4"/>
+                            <constraint firstAttribute="bottom" secondItem="7CT-rQ-kGQ" secondAttribute="bottom" id="sc7-v9-TSq"/>
                         </constraints>
                     </view>
                 </viewController>
