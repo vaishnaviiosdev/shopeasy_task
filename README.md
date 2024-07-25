@@ -1,0 +1,1 @@
+# shopeasy_task
