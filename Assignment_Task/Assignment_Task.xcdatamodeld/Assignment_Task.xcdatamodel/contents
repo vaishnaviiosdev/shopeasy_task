@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23F79" minimumToolsVersion="Xcode 11.0" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CartTable" representedClassName="CartTable" syncable="YES">
+        <attribute name="item_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="item_img" optional="YES" attributeType="String"/>
+        <attribute name="item_name" optional="YES" attributeType="String"/>
+        <attribute name="item_price" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="item_qty" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="FavoriteTable" representedClassName="FavoriteTable" syncable="YES">
+        <attribute name="item_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="item_img" optional="YES" attributeType="String"/>
+        <attribute name="item_name" optional="YES" attributeType="String"/>
+        <attribute name="item_price" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="ProductTable" representedClassName="ProductTable" syncable="YES">
+        <attribute name="product_id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="product_items" optional="YES" attributeType="String"/>
+        <attribute name="product_name" optional="YES" attributeType="String"/>
+    </entity>
+</model>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7CT-rQ-kGQ">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="RoundLogo" translatesAutoresizingMaskIntoConstraints="NO" id="fca-hb-dh2">
+                                        <rect key="frame" x="35" y="159" width="250" height="250"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="250" id="VFF-c0-stY"/>
+                                            <constraint firstAttribute="height" constant="250" id="bOp-do-pEo"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" name="ColorBgDarkAlpha"/>
+                                <constraints>
+                                    <constraint firstItem="fca-hb-dh2" firstAttribute="centerX" secondItem="7CT-rQ-kGQ" secondAttribute="centerX" id="dTv-uR-WZJ"/>
+                                    <constraint firstItem="fca-hb-dh2" firstAttribute="centerY" secondItem="7CT-rQ-kGQ" secondAttribute="centerY" id="qhV-qG-XNx"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="7CT-rQ-kGQ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="0og-1A-cNa"/>
+                            <constraint firstItem="7CT-rQ-kGQ" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="4T8-sU-ZUm"/>
+                            <constraint firstItem="7CT-rQ-kGQ" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="GEd-wP-eTN"/>
+                            <constraint firstItem="7CT-rQ-kGQ" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="SBA-1u-Ep4"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="356" y="155"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="RoundLogo" width="512" height="512"/>
+        <namedColor name="ColorBgDarkAlpha">
+            <color red="0.94901960784313721" green="0.94117647058823528" blue="0.87450980392156863" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
