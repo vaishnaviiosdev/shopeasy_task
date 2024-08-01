@@ -46,6 +46,6 @@ To install and run ShopEasy on your local machine, follow these steps:
    ```bash
    pod install
    
-Wait for that to finish. It could take a while.
+Press return. Wait for that to finish. It could take a while.
 
 8.Open the file named `Assignment_Task.xcworkspace`. Click Run
