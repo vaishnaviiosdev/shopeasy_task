@@ -26,10 +26,26 @@ action.
 
 To install and run ShopEasy on your local machine, follow these steps:
 
-1. Clone the repository:
+1. Open Terminal.
+
+2. Clone the repository:
    ```bash
    git clone https://github.com/vaishnaviiosdev/shopeasy_task.git
 
-2. Pod Install:
+3. Find the project directory in the Finder. This should be the folder that has the Xcode project in it.
+
+4. Type `cd` into the terminal, followed by a space.
+
+5. Drag and drop the project directory into the terminal window. It should now say something like this:
+    ```bash
+    cd /Users/someone/Downloads/shopeasy_task-main
+
+6. Press return.
+
+7. Now type:
    ```bash
    pod install
+   
+Wait for that to finish. It could take a while.
+
+8.Open the file named [Assignment_Task.xcworkspace]. Click Run
