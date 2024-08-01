@@ -48,4 +48,4 @@ To install and run ShopEasy on your local machine, follow these steps:
    
 Wait for that to finish. It could take a while.
 
-8.Open the file named [Assignment_Task.xcworkspace]. Click Run
+8.Open the file named `Assignment_Task.xcworkspace`. Click Run
